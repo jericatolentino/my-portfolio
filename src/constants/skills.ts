@@ -1,0 +1,1 @@
+export const skills = ['aws', 'react', 'firebase', 'postgresql', 'css']
